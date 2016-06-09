@@ -1,0 +1,6 @@
+
+receber coluna de indice e numero de carracteres a serem indexados
+ler csv
+carregar indices da coluna escolhida de forma ordenada
+valor será o offset relativo a linha no arquivo
+
