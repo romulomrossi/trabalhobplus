@@ -1,7 +1,6 @@
 int main(){
 
-    echo "hello world!";
-
+    printf("SDFaskfjlsa\n");
 
 
 return 0;
