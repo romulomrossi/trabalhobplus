@@ -1,18 +1,46 @@
-#include"lerArquivo.h"
-#include<iostream>
+#include "lerArquivo.h"
+#include <iostream>
 #define LSIZE 1000
 using namespace std;
-vector<dados<string> > carregaArquivo(const char * fileName,int col,int chars){
-	fstream is(fileName);
 
-	string linha;
+vector <Dados<string> > carregaArquivo(const char * fileName,int col,int chars){
+	
+	fstream is(fileName);
+	vector<Dados<string> > dados;
+	Dados<string> *atual;
+	char linha[LSIZE];
+	int offset;
 
 	while(!is.eof()){
-		getline(is, linha);
-		cout<<linha<<endl;
+		offset = is.tellg();
+		is.getline(linha, LSIZE);
+		atual = &Dados<string>(readCol(linha, col, chars));
+		cout<<atual.getChave<<" "<<offset<<endl;
+		atual.addRef(offset);
+		dados.insert(atual);
 	}
+
 	is.close();
 
-	vector<dados<string> > o;
-	return o;
+	return dados;
+
 }
+
+string readCol(const char *str, int col, int chars){
+	int flag = 0, j;
+	char ret[chars+1];
+	for(int i=0; flag<col+1 && str[i]!='\0' ; i++){
+		if(flag==col){
+			for(j=0; str[j+i]!=',' && ret[j+i]!='\n' && j<chars; j++){
+				ret[j] = str[j+i];
+			}
+			ret[j+1] = '\0';
+			break;
+		}
+		if(str[i]==',')
+			flag++;
+	}
+	return string(ret);
+}
+
+

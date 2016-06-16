@@ -8,8 +8,10 @@ class Dados{
 		T chave;
 		std::vector<int> valores;	//offset no arquivo
 	public:
-		void addRef(int valor);//no arquivo...
-		Dados();
+		T getChave();
+		std::vector<int> getOffset();
+		void addRef(T valor, int offset);//no arquivo...
+		Dados(T chave);
 		~Dados();
 
 };

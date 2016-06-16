@@ -4,6 +4,5 @@
 #include"lerArquivo.h"
 using namespace std;
 int main(int argc, char ** argv){
-	string b("teste");
-	carregaArquivo("readme",0,0);
+	carregaArquivo("teste.csv",0,100);
 }
