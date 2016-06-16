@@ -3,14 +3,14 @@
 #include<vector>
 
 template<typename T>
-class dados{
+class Dados{
 	private:
 		T chave;
 		std::vector<int> valores;	//offset no arquivo
 	public:
 		void addRef(int valor);//no arquivo...
-		dados();
-		~dados();
+		Dados();
+		~Dados();
 
 };
 #endif

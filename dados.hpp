@@ -1,15 +1,15 @@
 #include"dados.h"
 	template<typename T>
-	void dados<T>::addRef(int valor){
+	void Dados<T>::addRef(T valor){
 
 	};
 	template<typename T>
-	dados<T>::dados(){
+	Dados<T>::dados(){
 
 
 	};
 	template<typename T>
-	dados<T>::~dados(){
+	Dados<T>::~dados(){
 
 
 	};
