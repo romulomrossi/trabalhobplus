@@ -7,17 +7,17 @@ vector <Dados<string> > carregaArquivo(const char * fileName,int col,int chars){
 	
 	fstream is(fileName);
 	vector<Dados<string> > dados;
-	Dados<string> *atual;
 	char linha[LSIZE];
 	int offset;
 
 	while(!is.eof()){
 		offset = is.tellg();
 		is.getline(linha, LSIZE);
-		atual = &Dados<string>(readCol(linha, col, chars));
-		cout<<atual.getChave<<" "<<offset<<endl;
-		atual.addRef(offset);
-		dados.insert(atual);
+		Dados<string> atual = Dados<string>(readCol(linha, col, chars));
+		//cout<<atual.getChave()<<" "<<offset<<endl;
+		cout<<atual.getChave()<<endl;
+		//atual.addRef(offset);
+		//dados.insert(atual);
 	}
 
 	is.close();
