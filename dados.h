@@ -9,10 +9,12 @@ class Dados{
 		std::vector<int> valores;	//offset no arquivo
 	public:
 		T getChave();
-		std::vector<int> getOffset();
+		std::vector<int> getOffsets();
 		void addRef(int offset);//no arquivo...
 		Dados<T>(T chave);
 		~Dados();
 
 };
+#include"dados.hpp"
+
 #endif

@@ -3,7 +3,7 @@
 #define LSIZE 1000
 using namespace std;
 
-vector <Dados<string> > carregaArquivo(const char * fileName,int col,int chars){
+vector <Dados<string> > carregaArquivo(const char * fileName,const int col,const int chars){
 	
 	fstream is(fileName);
 	vector<Dados<string> > dados;
@@ -14,9 +14,10 @@ vector <Dados<string> > carregaArquivo(const char * fileName,int col,int chars){
 		offset = is.tellg();
 		is.getline(linha, LSIZE);
 		Dados<string> atual = Dados<string>(readCol(linha, col, chars));
-		//cout<<atual.getChave()<<" "<<offset<<endl;
-		cout<<atual.getChave()<<endl;
-		//atual.addRef(offset);
+		atual.addRef(offset);
+
+		cout<<"chave:"<<atual.getChave()<<"\n offsets:"<<atual.getOffsets()[0]<<endl<<endl;
+//		cout<<atual.getChave()<<endl;
 		//dados.insert(atual);
 	}
 
@@ -26,7 +27,7 @@ vector <Dados<string> > carregaArquivo(const char * fileName,int col,int chars){
 
 }
 
-string readCol(const char *str, int col, int chars){
+string readCol(const char *str,const int col,const int chars){
 	int flag = 0, j;
 	char ret[chars+1];
 	for(int i=0; flag<col+1 && str[i]!='\0' ; i++){
@@ -34,13 +35,14 @@ string readCol(const char *str, int col, int chars){
 			for(j=0; str[j+i]!=',' && ret[j+i]!='\n' && j<chars; j++){
 				ret[j] = str[j+i];
 			}
-			ret[j+1] = '\0';
+			ret[j] = '\0';
 			break;
 		}
 		if(str[i]==',')
 			flag++;
 	}
-	return string(ret);
+	string s = ret;
+	return s;
 }
 
 

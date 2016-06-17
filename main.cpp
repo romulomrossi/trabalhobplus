@@ -1,8 +1,10 @@
 #include<iostream>
 #include<string>
-#include"dados.hpp"
 #include"lerArquivo.h"
+
+#include<stdlib.h>
 using namespace std;
 int main(int argc, char ** argv){
-	carregaArquivo("teste.csv",0,100);
+	
+	carregaArquivo("teste.csv",atol(argv[1]),atol(argv[2]));
 }
