@@ -15,22 +15,22 @@
 	};	
 	template<typename T>
 	bool Dados<T>::operator<(Dados<T> a){
-		if( this.chave < a.getChave() ) return true;
+		if( this->chave < a.getChave() ) return true;
 		return false;
 	}
 	template<typename T>
 	bool Dados<T>::operator>(Dados<T> a){
-		if( this.chave > a.getChave() ) return true;
+		if( this->chave > a.getChave() ) return true;
 		return false;
 	}
 	template<typename T>
 	bool Dados<T>::operator==(Dados<T> a){
-		if( this.chave == a.getChave() ) return true;
+		if( this->chave == a.getChave() ) return true;
 		return false;
 	}
 	template<typename T>
 	bool Dados<T>::operator!=(Dados<T> a){
-		if( this.chave != a.getChave() ) return true;
+		if( this->chave != a.getChave() ) return true;
 		return false;
 	}
 	
