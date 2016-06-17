@@ -33,7 +33,7 @@
 		if( this.chave != a.getChave() ) return true;
 		return false;
 	}
-
+	
 	template<typename T>
 	Dados<T>::Dados(T chave){
 		this->chave = chave;

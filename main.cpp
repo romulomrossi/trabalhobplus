@@ -3,6 +3,8 @@
 #include "lerArquivo.h"
 
 #include <stdlib.h>
+
+//#include<quicksort>
 using namespace std;
 
 int main(int argc, char ** argv){
@@ -11,6 +13,7 @@ int main(int argc, char ** argv){
 	dados = carregaArquivo("teste.csv",atol(argv[1]),atol(argv[2]));
 
 	for(int i=0; i<dados.size(); i++)
-		cout<<"chave:"<<dados[i].getChave()<<"\n offsets:"<<dados[i].getOffsets()[0]<<endl<<endl;
+		cout<<dados[i]<<endl;
+//		cout<<"chave:"<<dados[i].getChave()<<"\n offsets:"<<dados[i].getOffsets()[0]<<endl<<endl;
 
 }
