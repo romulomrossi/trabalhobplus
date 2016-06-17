@@ -14,6 +14,10 @@ class Dados{
 		Dados<T>(T chave);
 		~Dados();
 
+		bool operator<(Dados<T> b);
+		bool operator>(Dados<T> b);
+		bool operator==(Dados<T> b);
+		bool operator!=(Dados<T> b);
 };
 #include"dados.hpp"
 
