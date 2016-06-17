@@ -1,7 +1,8 @@
-#include<fstream>
-#include<string>
-#include<vector>
-#include"dados.h"
+#include <fstream>
+#include <string>
+#include <vector>
+#include "dados.h"
+
 #ifndef LER_ARQUIVO_H
 #define LER_ARQUIVO_H
 using namespace std;

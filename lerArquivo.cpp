@@ -15,10 +15,7 @@ vector <Dados<string> > carregaArquivo(const char * fileName,const int col,const
 		is.getline(linha, LSIZE);
 		Dados<string> atual = Dados<string>(readCol(linha, col, chars));
 		atual.addRef(offset);
-
-		cout<<"chave:"<<atual.getChave()<<"\n offsets:"<<atual.getOffsets()[0]<<endl<<endl;
-//		cout<<atual.getChave()<<endl;
-		//dados.insert(atual);
+		dados.push_back(atual);
 	}
 
 	is.close();
