@@ -25,11 +25,12 @@ vector <Dados<string> > carregaArquivo(const char * fileName,const int col,const
 }
 
 string readCol(const char *str,const int col,const int chars){
-	int flag = 0, j;
+	int flag = 0;
+	int j;
 	char ret[chars+1];
-	for(int i=0; flag<col+1 && str[i]!='\0' ; i++){
+	for(int i=0; flag<col+1 && str[i]!='\n'  ; i++){
 		if(flag==col){
-			for(j=0; str[j+i]!=',' && ret[j+i]!='\n' && j<chars; j++){
+			for(j=0; str[j+i]!=',' && ret[j+i]!='\n' && j< chars; j++){
 				ret[j] = str[j+i];
 			}
 			ret[j] = '\0';
@@ -41,5 +42,3 @@ string readCol(const char *str,const int col,const int chars){
 	string s = ret;
 	return s;
 }
-
-

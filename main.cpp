@@ -9,15 +9,16 @@
 using namespace std;
 
 int main(int argc, char ** argv){
-	
 	vector<Dados<string> > dados;
-	dados = carregaArquivo("teste.csv",atol(argv[1]),atol(argv[2]));
+	int digitos = atol(argv[2]);
+
+	dados = carregaArquivo("teste.csv",atol(argv[1]),digitos==0 ? -1 : digitos);
 
 //	for( vector<Dados<string> >::iterator it=dados.begin(); it!=dados.end(); ++it )
 //		cout<<*it<<endl;
-//		cout<<"chave:"<<dados[i].getChave()<<"\n offsets:"<<dados[i].getOffsets()[0]<<endl<<endl;
 	sort (dados.begin(),dados.end());
 	for( vector<Dados<string> >::iterator it=dados.begin(); it!=dados.end(); ++it )
-		cout<<*it<<endl;
+		cout<<*it<<endl; 
 
+	return 0;
 }
