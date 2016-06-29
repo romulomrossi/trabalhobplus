@@ -2,6 +2,7 @@
 template<typename D>
 NodeF<D>::NodeF(int ordem){
 	this->ordem = ordem;
+	this->chaves = vector<D>();
 }
 
 template<typename D>
