@@ -24,11 +24,11 @@ class NodeF {
 
 		for( vector<Dados<string> >::iterator it=dados.begin()+1; it!=dados.end(); ++it ){
 			//cout<<"comparando: "<<atual->getChave()<<" e "<<it->getChave();
-		 	if(*atual==*it){
+			if(*atual==*it){
 				atual->addRef( it->getOffsets().back() );
 				it->clearOffsets();
 				//cout<<"= true"<<endl;
-		 	}else{
+			}else{
 				atual = it ;
 				//cout<<"= false"<<endl;
 				if(novo.chaves.size()>=(ordem-1)/2){
@@ -42,8 +42,8 @@ class NodeF {
 				cout<<novo.chaves[0];
 			}
 		}
-	 		 for( vector<Dados<string> >::iterator it=dados.begin(); it!=dados.end(); ++it )
-	 		 	cout<<*it<<endl;
+		for( vector<Dados<string> >::iterator it=dados.begin(); it!=dados.end(); ++it )
+			cout<<*it<<endl;
 	};
 };
 
