@@ -14,7 +14,7 @@ class Dados{
 		void clearOffsets();
 		void addRef(int offset);//no arquivo...
 		Dados<T>(T chave);
-		~Dados();
+		~Dados<T>();
 
 		bool operator<(Dados<T> b);
 		bool operator>(Dados<T> b);
