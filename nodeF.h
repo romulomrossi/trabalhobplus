@@ -13,7 +13,7 @@ class NodeF {
 	public:
 		D remover (D chave);
 		~NodeF();
-		static void bulkLoading(vector<D >, int ordem);
+		static void bulkLoading(vector<Dados<D> >, int ordem);
 
 		void inserir(D chave);
 
