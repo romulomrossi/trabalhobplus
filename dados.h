@@ -11,6 +11,7 @@ class Dados{
 	public:
 		T getChave();
 		std::vector<int> getOffsets();
+		void clearOffsets();
 		void addRef(int offset);//no arquivo...
 		Dados<T>(T chave);
 		~Dados();
