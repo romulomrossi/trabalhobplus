@@ -8,7 +8,7 @@ class NodeF {
 		int ordem;
 		NodeF<D> *prox;
 		//Node<Dados<D> > pai;
-		vector<D> chaves;
+		vector<Dados<D> > chaves;
 		void split();
 	public:
 		NodeF<D>(int ordem);
@@ -19,7 +19,7 @@ class NodeF {
 
 	static void bulkLoading(vector<Dados<string> > dados, int ordem){
 		vector<Dados<string> >::iterator atual = dados.begin();
-		NodeF<string> novo = NodeF<string>(ordem);
+		NodeF<string> *novo = new NodeF<string>(ordem);
 		NodeF<string> *aux;
 
 		for( vector<Dados<string> >::iterator it=dados.begin()+1; it!=dados.end(); ++it ){
@@ -27,28 +27,27 @@ class NodeF {
 			if(*atual==*it){
 				atual->addRef( it->getOffsets().back() );
 				it->clearOffsets();
-				//cout<<"= true"<<endl;
 			}else{
 				atual = it ;
-				//cout<<"= false"<<endl;
-				if(novo.chaves.size()>=(ordem-1)/2){
-					aux = &novo;
-					novo = NodeF<string>(ordem);
-					aux->prox = &novo;
+				if(novo->chaves.size()>=(ordem-1)/2){
+					cout<<*atual<<endl;
+					aux = novo;
+					novo = new NodeF<string>(ordem);
+					aux->prox = novo;
 				}
 				unsigned int a = atual-dados.begin();
-				//novo->chaves.push_back(dados[a]);
-				cout<<a<<endl;
-				cout<<novo.chaves[0];
+				novo->chaves.push_back(dados[a]);
+				novo->chaves[0];
 			}
 		}
 		for( vector<Dados<string> >::iterator it=dados.begin(); it!=dados.end(); ++it )
-			cout<<*it<<endl;
+			if(!it->getOffsets().empty())
+				cout<<*it<<endl;
 	};
 };
 
 // template<typename D>
 //void bulkLoading(vector<Dados<string> > dados, int ordem);
-#include "node.hpp"
+#include "nodeF.hpp"
 
 #endif
