@@ -1,9 +1,11 @@
-
-template<typename D>
-Node<D>::Node(int ordem){
-	 this->ordem = ordem;
-}
-		Node(int ordem);
-		~Node();
-		static T bulkLoading(vector<T>, int ordem);
-		D remove(D chave);
+//
+// template<typename D>
+// Node<D>::Node(int ordem){
+// 	 this->ordem = ordem;
+// }
+//
+// template<typename D>
+// Node<D>::~Node(){}
+// //
+// // template<typename D>
+// // Node<D>::D remove(D chave){}

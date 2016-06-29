@@ -1,5 +1,5 @@
-#ifndef
-#define NODE_h
+#ifndef NODE_H
+#define NODE_H
 template<typename D> //,typename T>
 class Node {
 	private:
@@ -16,7 +16,7 @@ class Node {
 
 		void inserir(D chave);
 
-}
+};
 
 #include "node.hpp"
 

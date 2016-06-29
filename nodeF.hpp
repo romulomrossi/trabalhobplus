@@ -1,24 +1,26 @@
 
-Node<D>::Node(int ordem){
-		this->ordem = ordem;
+NodeF<D>::Node(int ordem){
+	this->ordem = ordem;
 }
 template<typename D>
-Node<D>::D remover (D chave);
+NodeF<D>::D remover (D chave);
 ~Node();
 
 template<typename D>
-static T bulkLoading(vector<Dados<D> > dados, int ordem){
-	NodeF<D> nodeAtual(ordem);
-	Dados<D> *atual = dados.erase(dados.begin());
+NodeF::static void bulkLoading(vector<D> dados, int ordem){
+	vector<D>::iterator atual = dados.begin();
 	for( vector<D>::iterator it=dados.begin()+1; it!=dados.end(); ++it ){
-		if(*atual==*it){
-			atual->addRef(it->getOffsets().pop_back() );
-			~it();
-		}else{
-			atual=it;
-		}
-	}
+		cout<<"comparando: "<<atual->getChave()<<" e "<<it->getChave();
+	 	if(*atual==*it){
+			atual->addRef( it->getOffsets().back() );
+			it->clearOffsets();
+			cout<<"= true"<<endl;
+	 	}else{
+			atual = it ;
+			cout<<"= false"<<endl;
+	 	}
+	 }
 
 }
-template<typename D> //,typename T>
-Node<D>::void inserir(D chave);
+//template<typename D> //,typename T>
+//NodeF<D>::void inserir(D chave);
