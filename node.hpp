@@ -3,6 +3,7 @@ Node<D>::Node(int ordem){
 	this->pai = (Node<D>*) NULL;
 	this->ordem = ordem;
 	this->chaves = vector<Dados<D> >();
+	this->valores = vector<D>();
 };
 
 template<typename D>
@@ -18,5 +19,5 @@ Node<D>::void inserePai(D chave, Node<D> *esq, Node<D> *dir){
 			esq->pai->filhos.push_back(dir);
 			dir->pai = esq->pai;
 		}
-		esq->pai->chaves.push_back(chave);
+		esq->pai->valores.push_back(chave);
 }

@@ -8,10 +8,11 @@ class Node {
 		Node<D> *prox;
 		Node<D> *pai;
 		vector<Dados<D> > chaves;
+		vector<D> valores;
 		vector<Node<D> > *filhos;
 		bool folha;
 		void split();
-		void inserePai();
+		void inserePai(D chave, Node<D> *esq, Node<D> *dir);
 
 	public:
 		Node<D>(int ordem);
@@ -51,9 +52,7 @@ class Node {
 		while(novo->prox != (Node<string>*)NULL ){
 			for(int i = 0; i<novo->chaves.size() && novo->folha; i++){
 				 cout<<novo->chaves[i]<<endl;
-				 novo->prox.inserePai(novo->prox.)
-
-
+				 novo->prox->inserePai(novo->prox->chaves[0].getChave(), novo, novo->prox);
 				 novo = novo->prox;
 			}
 		}
