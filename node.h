@@ -37,7 +37,7 @@ class Node {
 				unsigned int a = atual-dados.begin();
 				novo->chaves.push_back(dados[a]);
 				atual = it ;
-				if(novo->chaves.size()>=(ordem-1)/2){
+				if(novo->chaves.size()>=(unsigned int)(ordem-1)/2){
 					// cout<<*atual<<endl;
 					aux = novo;
 					novo = new Node<string>(ordem);
@@ -51,7 +51,7 @@ class Node {
 		aux->prox =  (Node<string>*)NULL;
 		novo = first;
 		while(novo->prox != (Node<string>*)NULL ){
-			for(int i = 0; i<novo->chaves.size() && novo->folha; i++){
+			for(unsigned int i = 0; i<novo->chaves.size() && novo->folha; i++){
 				 cout<<novo->chaves[i]<<endl;
 				 novo->prox->inserePai( novo, novo->prox);
 				 novo = novo->prox;

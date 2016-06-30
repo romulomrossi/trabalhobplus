@@ -12,8 +12,8 @@ Node<D>::~Node(){};
 template<typename D>
 Node<D> * Node<D>::split (Node<D> * esq){
 	Node<D> * dir = new Node<D>(this->ordem);
-	int tam = (this->ordem-1) / 2;
-	while(esq->valores.size() < tam ){
+	unsigned int tam = (this->ordem-1) / 2;
+	while(esq->valores.size() >= tam ){
 		dir->valores.push_back(esq->valores[tam]);
 	  esq->valores.erase(esq->valores.begin()+tam);
 	}
@@ -23,16 +23,17 @@ Node<D> * Node<D>::split (Node<D> * esq){
 template<typename D>
 void Node<D>::inserePai(Node<D> *esq, Node<D> *dir){
 		if(esq->pai==(Node<D>*)NULL){
-			cout<<"chegou aqui"<<endl;
+			cerr<<"\nchegou aqui:";
 			dir->pai = esq->pai = new Node<D>(this->ordem);
 			esq->pai->filhos.push_back(esq);
 			esq->pai->filhos.push_back(dir);
 		}else{
+			cout<<"+";
 			esq->pai->filhos.push_back(dir);
 			dir->pai = esq->pai;
 		}
 		esq->pai->valores.push_back(dir->chaves[0].getChave());
-		if(pai->valores.size() <= (ordem-1)/2)
+		if(pai->valores.size() >= (unsigned int) (ordem-1)/2)
 			inserePai(esq->pai, split(esq->pai));
 
 }
