@@ -1,1330 +1,1945 @@
-con
- Offsets:
-qnt: 188
-  167380
-  166593
-  144488
-  144349
-  144221
-  144067
-  166704
-  166815
-  143908
-  166933
-  167293
-  166487
-  143595
-  143454
-  143314
-  167493
-  167645
-  167776
-  143027
-  168254
-  142755
-  144951
-  165010
-  145822
-  165185
-  145677
-  145529
-  165409
-  145384
-  145239
-  145091
-  168387
-  144800
-  165682
-  165780
-  165886
-  166024
-  166107
-  166231
-  166356
-  144642
-  171690
-  170562
-  141551
-  170662
-  170758
-  141433
-  170869
-  171288
-  171402
-  171553
-  170426
-  172056
-  172168
-  172316
-  172408
-  172515
-  172652
-  173334
-  173642
-  173864
-  169422
-  168525
-  168670
-  168794
-  168943
-  142615
-  142482
-  169049
-  169158
-  142386
-  164884
-  169517
-  169612
-  141940
-  169723
-  141708
-  169930
-  170013
-  170104
-  170265
-  157153
-  151750
-  151644
-  151525
-  155646
-  155940
-  156451
-  156644
-  156793
-  151407
-  151175
-  155492
-  157318
-  151009
-  157494
-  150885
-  150759
-  150571
-  150357
-  157857
-  149893
-  154608
-  153446
-  153597
-  153302
-  153897
-  153002
-  152873
-  154179
-  154324
-  152599
-  158180
-  154745
-  152234
-  154891
-  155048
-  152112
-  155197
-  155337
-  151981
-  151879
-  146733
-  162304
-  147297
-  147144
-  162559
-  162885
-  146992
-  163028
-  163233
-  163514
-  147429
-  146641
-  163638
-  163765
-  163861
-  163963
-  146468
-  164221
-  164347
-  164508
-  160505
-  149587
-  149473
-  158535
-  158740
-  159204
-  148857
-  159522
-  159641
-  160293
-  180457
-  160607
-  148257
-  148112
-  147932
-  161501
-  161626
-  161716
-  161978
-  147521
-  177847
-  175950
-  174513
-  179486
-  179792
-  178924
-  174640
-  174208
-  179040
-  174106
-  173976
-  174738
-  178816
-  175412
-  176385
-  179396
-  178525
-  176496
-  177457
-  176621
-  177296
-  176797
-  180030
-  176959
-  178000
-  180142
-
-chegou aqui
-conf
- Offsets:
-qnt: 529
-  122769
-  81200
-  83798
-  123294
-  122910
-  84902
-  84689
-  122644
-  84204
-  84357
-  122384
-  84513
-  123810
-  80258
-  81364
-  81515
-  81812
-  81949
-  82112
-  82314
-  82470
-  123417
-  82637
-  82802
-  82956
-  123657
-  123533
-  83104
-  83395
-  83499
-  88663
-  120449
-  87907
-  134329
-  120072
-  88379
-  88510
-  119962
-  119871
-  119739
-  87761
-  88769
-  119563
-  89099
-  89333
-  119442
-  89650
-  89753
-  89879
-  121512
-  85208
-  122240
-  133670
-  85859
-  121902
-  86008
-  86294
-  121799
-  86539
-  85041
-  86705
-  86829
-  86904
-  121146
-  120907
-  120754
-  134211
-  87339
-  74639
-  128897
-  128773
-  74074
-  128502
-  128245
-  131704
-  128060
-  128014
-  127916
-  128994
-  127825
-  127554
-  75029
-  75148
-  75245
-  127418
-  75487
-  127267
-  75579
-  129388
-  66644
-  130818
-  71722
-  130149
-  71823
-  129755
-  129663
-  72518
-  72660
-  75749
-  72811
-  129259
-  72945
-  73081
-  73497
-  73617
-  73776
-  129119
-  124742
-  78364
-  132989
-  133102
-  78925
-  79070
-  79400
-  79487
-  79669
-  79863
-  132867
-  124599
-  124527
-  80148
-  118936
-  124341
-  80621
-  124165
-  123969
-  80776
-  76773
-  75883
-  76011
-  127165
-  127042
-  126364
-  132590
-  76437
-  126034
-  76567
-  81058
-  76929
-  125869
-  125738
-  125629
-  77204
-  125506
-  77480
-  132738
-  101553
-  100571
-  100723
-  137816
-  100832
-  100952
-  101068
-  137912
-  101186
-  101343
-  137705
-  141297
-  101868
-  108651
-  102003
-  102292
-  102378
-  138157
-  102497
-  108240
-  110485
-  98812
-  98915
-  99188
-  111053
-  110887
-  110617
-  99483
-  99721
-  99863
-  102685
-  110380
-  137598
-  110064
-  100012
-  109905
-  109725
-  109545
-  100300
-  109351
-  106854
-  138277
-  105824
-  139636
-  138508
-  106168
-  139365
-  106401
-  139237
-  106733
-  105726
-  139029
-  107050
-  107171
-  138619
-  107309
-  107381
-  138885
-  138734
-  107618
-  104371
-  102857
-  103091
-  141048
-  103355
-  140916
-  140803
-  103777
-  104131
-  140257
-  111322
-  140072
-  104649
-  108104
-  104923
-  105036
-  105179
-  105344
-  139763
-  105590
-  115983
-  117354
-  93006
-  117215
-  117129
-  135275
-  116860
-  135413
-  116266
-  93309
-  135172
-  115860
-  115734
-  115576
-  93927
-  135847
-  94030
-  115294
-  136003
-  94353
-  118323
-  119312
-  90142
-  90253
-  90435
-  90768
-  107720
-  118756
-  118602
-  134834
-  94655
-  91798
-  118198
-  118028
-  92393
-  92605
-  92836
-  134925
-  135066
-  92921
-  97836
-  113531
-  97284
-  97403
-  113310
-  112827
-  112721
-  97522
-  112602
-  112359
-  113677
-  112208
-  112130
-  111774
-  98125
-  98249
-  137170
-  98503
-  98622
-  98725
-  114243
-  114920
-  94860
-  94984
-  114794
-  95119
-  114685
-  114584
-  114478
-  136227
-  90033
-  95781
-  114090
-  95904
-  96011
-  96209
-  113787
-  96806
-  96887
-  34165
-  31312
-  31478
-  31762
-  32050
-  32311
-  33394
-  33716
-  33869
-  31165
-  34633
-  34806
-  34959
-  35270
-  35564
-  35712
-  35841
-  35979
-  29558
-  27930
-  28132
-  28337
-  28523
-  28640
-  28945
-  29229
-  29370
-  36383
-  29802
-  29908
-  30000
-  30134
-  30268
-  30588
-  30722
-  44525
-  41806
-  42135
-  42398
-  42769
-  42864
-  42968
-  43451
-  44092
-  41627
-  44958
-  45097
-  45226
-  45371
-  45473
-  45785
-  46063
-  38942
-  36513
-  36649
-  36924
-  37639
-  37793
-  37939
-  38588
-  38704
-  27751
-  39258
-  39663
-  39780
-  39899
-  40111
-  40433
-  40609
-  13748
-  14681
-  14564
-  14466
-  14239
-  17604
-  17762
-  17919
-  13986
-  17218
-  18739
-  18886
-  19045
-  19207
-  19352
-  19514
-  19664
-  15023
-  15395
-  15517
-  15630
-  15808
-  15263
-  15920
-  16044
-  15150
-  19819
-  14901
-  14791
-  16588
-  16711
-  16830
-  16940
-  17082
-  26424
-  24584
-  25035
-  25191
-  25491
-  25632
-  25770
-  25918
-  26072
-  24216
-  26686
-  26960
-  27136
-  27253
-  27349
-  27484
-  27616
-  21662
-  19947
-  20103
-  20274
-  13393
-  20473
-  20644
-  21385
-  21525
-  42585
-  21865
-  22026
-  22686
-  22849
-  23316
-  23668
-  24040
-  64363
-  62618
-  62741
-  63016
-  63400
-  55964
-  63582
-  63752
-  64079
-  55416
-  55307
-  56611
-  64787
-  54610
-  65236
-  54248
-  65974
-  53909
-  53782
-  53633
-  53347
-  53220
-  58889
-  60959
-  60849
-  61061
-  60592
-  61194
-  60073
-  61296
-  59541
-  61430
-  61688
-  46474
-  58730
-  58563
-  58317
-  58195
-  62076
-  57724
-  62206
-  57248
-  57128
-  62333
-  48863
-  49835
-  68466
-  68819
-  68943
-  49738
-  69057
-  49242
-  69307
-  69443
-  49104
-  69916
-  66118
-  48687
-  48504
-  48329
-  70217
-  47809
-  47522
-  70443
-  70582
-  70715
-  46916
-  70929
-  50315
-  66811
-  66972
-  66471
-  51713
-  52056
-  67272
-  51226
-  52194
-  66297
-  67361
-  52664
-  53017
-  67874
-  68178
-  50818
-  50672
-  50558
-  50418
-
-conf/
- Offsets:
-qnt: 57
-  13215
-  2640
-  8729
-  12203
-  1341
-  1449
-  12552
-  12637
-  1569
-  2502
-  12730
-  2106
-  1966
-  13042
-  1722
-  9730
-  5602
-  5700
-  6180
-  10757
-  6331
-  10655
-  10535
-  6862
-  10365
-  7172
-  10114
-  9833
-  2909
-  7318
-  7462
-  9629
-  9344
-  7632
-  7789
-  7962
-  8126
-  8420
-  8586
-  9174
-  8872
-  4414
-  11411
-  4147
-  4023
-  11636
-  5475
-  4282
-  11871
-  4547
-  4674
-  2780
-  5351
-  12085
-  4786
-  3532
-  3132
-
-conf/a
- Offsets:
+Chave: conf/ACMse/FuquayW90 
+Offsets:
 qnt: 1
-  1111
+  8872,
 
-conf/c
- Offsets:
+Chave: conf/IEEEcloud/ZhaoMM10 
+Offsets:
 qnt: 1
-  762
+  35841,
 
-conf/d
- Offsets:
+Chave: conf/aaai/DaiMW10 
+Offsets:
 qnt: 1
-  626
+  1111,
 
-conf/i
- Offsets:
+Chave: conf/aaai/DershowitzP90 
+Offsets:
+qnt: 1
+  99188,
+
+Chave: conf/aaai/LevesqueCN90 
+Offsets:
+qnt: 1
+  5602,
+
+Chave: conf/aaai/Wellman87 
+Offsets:
+qnt: 1
+  42864,
+
+Chave: conf/aaai/YangT90 
+Offsets:
+qnt: 1
+  161716,
+
+Chave: conf/acl/Abeille90 
+Offsets:
 qnt: 2
-  832
-  976
+  151879,  14239,
 
-jou
- Offsets:
-qnt: 99
-  180316
-  153150
-  179305
-  175637
-  176255
-  177767
-  179622
-  176130
-  177687
-  175734
-  176050
-  177572
-  175870
-  178150
-  177074
-  178299
-  178448
-  179921
-  179159
-  178688
-  177180
-  162413
-  160388
-  148402
-  160768
-  160885
-  161032
-  161178
-  161276
-  161412
-  161837
-  147753
-  162125
-  147594
-  160170
-  162749
-  146806
-  163357
-  164092
-  146303
-  146158
-  164619
-  145967
-  164760
-  165303
-  165532
-  165602
-  158014
-  153734
-  152718
-  154040
-  154469
-  152458
-  155790
-  156101
-  156253
-  156972
-  157664
-  150463
-  150188
-  175548
-  149997
-  149782
-  158366
-  149228
-  158945
-  149044
-  159361
-  148741
-  148580
-  159777
-  159918
-  160050
-  142239
-  173160
-  173014
-  172914
-  172777
-  175062
-  174982
-  171810
-  173502
-  173760
-  174306
-  171062
-  169833
-  142064
-  169257
-  167057
-  168118
-  167962
-  174412
-  143167
-  167877
-  142880
-  143747
-  167159
-  175210
-  174869
+Chave: conf/acl/Brent90 
+Offsets:
+qnt: 1
+  166356,
 
-jour
- Offsets:
-qnt: 370
-  137342
-  130707
-  131412
-  131573
-  137498
-  135735
-  135639
-  136982
-  136798
-  136693
-  93184
-  136589
-  131264
-  136104
-  136450
-  131130
-  130928
-  136328
-  133783
-  140450
-  133983
-  134091
-  133529
-  133368
-  133235
-  134483
-  141178
-  134598
-  134711
-  140624
-  135526
-  139902
-  139493
-  139106
-  132437
-  132286
-  132134
-  131997
-  138034
-  131855
-  55046
-  51529
-  51872
-  52366
-  52515
-  52833
-  53505
-  54113
-  54404
-  54750
-  54914
-  51349
-  55180
-  55543
-  55696
-  55825
-  56097
-  56229
-  56440
-  56708
-  56880
-  48168
-  44826
-  45643
-  45926
-  46233
-  46630
-  46810
-  47085
-  47227
-  47374
-  47983
-  57004
-  48986
-  49374
-  49509
-  49633
-  49956
-  50099
-  50206
-  50934
-  51087
-  67550
-  64215
-  64496
-  64639
-  64953
-  65088
-  65529
-  65634
-  65739
-  65869
-  67110
-  63928
-  67712
-  68004
-  68352
-  68570
-  68677
-  69596
-  69797
-  70048
-  70334
-  59924
-  57420
-  57574
-  57873
-  57973
-  58066
-  59060
-  59218
-  59356
-  59731
-  44678
-  60315
-  60470
-  60745
-  61562
-  61792
-  61943
-  62493
-  62867
-  63146
-  26555
-  22982
-  23156
-  23472
-  23851
-  24413
-  24798
-  24935
-  25342
-  26189
-  26314
-  22538
-  26815
-  28222
-  28819
-  29065
-  29682
-  30412
-  30893
-  31029
-  31639
-  18186
-  13546
-  13890
-  14119
-  14340
-  16157
-  16301
-  16461
-  17366
-  17474
-  18056
-  31922
-  18325
-  18454
-  18585
-  20799
-  20913
-  21076
-  21228
-  22207
-  22370
-  41443
-  38363
-  38463
-  38820
-  39046
-  39362
-  39475
-  40244
-  40845
-  41042
-  41246
-  38131
-  41977
-  42294
-  43135
-  43296
-  43603
-  43776
-  43935
-  44233
-  44379
-  34477
-  32166
-  32426
-  32563
-  32752
-  32999
-  33201
-  33535
-  34006
-  34321
-  130341
-  35119
-  35410
-  36128
-  36248
-  36794
-  37085
-  37220
-  37375
-  37520
-  111187
-  107982
-  108021
-  108061
-  108446
-  108541
-  108810
-  109011
-  109153
-  110244
-  110754
-  107870
-  111547
-  111646
-  111918
-  112028
-  112970
-  113140
-  113939
-  114320
-  115075
-  104498
-  100098
-  100413
-  101702
-  102156
-  103218
-  103470
-  103623
-  103928
-  104018
-  104248
-  115207
-  104794
-  105509
-  105983
-  106072
-  106312
-  106487
-  106644
-  106972
-  107473
-  126887
-  123037
-  123162
-  124899
-  125091
-  125259
-  125380
-  126197
-  126572
-  126694
-  126791
-  122511
-  127652
-  128106
-  128375
-  128646
-  129501
-  129860
-  130039
-  130248
-  130524
-  118460
-  115431
-  116130
-  116483
-  116593
-  116764
-  116958
-  117535
-  117695
-  117800
-  71013
-  119039
-  119230
-  120197
-  120297
-  120602
-  121024
-  121283
-  121619
-  122089
-  80059
-  77627
-  77779
-  77919
-  78071
-  78223
-  78598
-  78761
-  79217
-  79758
-  79970
-  77337
-  80383
-  80493
-  80900
-  81657
-  83260
-  83646
-  83928
-  84033
-  84792
-  73892
-  70815
-  71150
-  71254
-  71421
-  71617
-  72039
-  72199
-  72370
-  73218
-  73337
-  99569
-  74219
-  74374
-  74529
-  74750
-  74869
-  75383
-  76172
-  76316
-  77062
-  95542
-  92261
-  93091
-  93418
-  93608
-  93769
-  94202
-  94501
-  95277
-  95378
-  85576
-  96390
-  96648
-  97011
-  97146
-  97669
-  97998
-  98368
-  99046
-  99303
-  91951
-  85416
-  85692
-  86157
-  86424
-  87153
-  87559
-  88053
-  88207
-  88974
-  89451
-  89214
-  92109
-  91589
-  91388
-  91254
-  91104
-  90923
-  90624
+Chave: conf/acl/ChrupalaG06 
+Offsets:
+qnt: 1
+  147144,
 
-journ
- Offsets:
-qnt: 33
-  8255
-  6998
-  6723
-  6592
-  6456
-  6012
-  5854
-  5216
-  5080
-  4934
-  3884
-  3712
-  3344
-  2351
-  2226
-  1862
-  1230
-  9510
-  12922
-  12832
-  12435
-  12314
-  11980
-  11741
-  11525
-  11291
-  11154
-  11056
-  10955
-  10860
-  10256
-  9935
-  9003
+Chave: conf/acl/DawarV89 
+Offsets:
+qnt: 1
+  107171,
 
-journa
- Offsets:
+Chave: conf/acl/Frank90 
+Offsets:
+qnt: 1
+  173864,
+
+Chave: conf/acl/Gibson90 
+Offsets:
+qnt: 1
+  117129,
+
+Chave: conf/acl/Hindle90 
+Offsets:
+qnt: 1
+  174106,
+
+Chave: conf/acl/LappinM90 
+Offsets:
+qnt: 2
+  128994,  80258,
+
+Chave: conf/acl/LindenM90 
+Offsets:
+qnt: 1
+  166231,
+
+Chave: conf/acl/Maruyama90 
+Offsets:
+qnt: 1
+  165780,
+
+Chave: conf/acl/RambowVW95 
+Offsets:
+qnt: 1
+  49738,
+
+Chave: conf/acl/Ravin90 
+Offsets:
+qnt: 1
+  146641,
+
+Chave: conf/acl/ShieberNMP89 
+Offsets:
+qnt: 1
+  109351,
+
+Chave: conf/acl/StrzalkowskiP90 
+Offsets:
+qnt: 1
+  163514,
+
+Chave: conf/acl/Vijay-ShankerW90 
+Offsets:
+qnt: 1
+  168254,
+
+Chave: conf/acm/MoserM93 
+Offsets:
+qnt: 1
+  4674,
+
+Chave: conf/agents/PappachanD01 
+Offsets:
+qnt: 1
+  6180,
+
+Chave: conf/aied/Chan05 
+Offsets:
+qnt: 1
+  56611,
+
+Chave: conf/aimsa/Erbach90 
+Offsets:
+qnt: 1
+  99483,
+
+Chave: conf/amfg/TianBCPHSB03 
+Offsets:
+qnt: 1
+  2909,
+
+Chave: conf/ancs/MeinersLTP11 
+Offsets:
+qnt: 1
+  75579,
+
+Chave: conf/asplos/MogulB91 
+Offsets:
+qnt: 1
+  141433,
+
+Chave: conf/awic/Herrera-ViedmaPOHM03 
+Offsets:
+qnt: 1
+  8420,
+
+Chave: conf/bnaic/BleysB05 
+Offsets:
+qnt: 1
+  105036,
+
+Chave: conf/cade/BonacinaE07 
+Offsets:
+qnt: 1
+  107618,
+
+Chave: conf/cav/Cleaveland90 
+Offsets:
+qnt: 1
+  162304,
+
+Chave: conf/cbms/Knight90 
+Offsets:
+qnt: 1
+  14466,
+
+Chave: conf/chi/HeerB10 
+Offsets:
+qnt: 1
+  153446,
+
+Chave: conf/coco/AmirBG90 
+Offsets:
+qnt: 1
+  115576,
+
+Chave: conf/coco/GoldreichS98 
+Offsets:
+qnt: 1
+  57128,
+
+Chave: conf/coling/Ahrenberg90 
+Offsets:
+qnt: 1
+  169612,
+
+Chave: conf/coling/BlacheM90 
+Offsets:
+qnt: 1
+  106854,
+
+Chave: conf/coling/BlockH90 
+Offsets:
+qnt: 1
+  119739,
+
+Chave: conf/coling/BrownCPPJMR88 
+Offsets:
+qnt: 1
+  113310,
+
+Chave: conf/coling/DaganI90 
+Offsets:
+qnt: 1
+  165886,
+
+Chave: conf/coling/DalrympleMZ90 
+Offsets:
+qnt: 1
+  168387,
+
+Chave: conf/coling/Dorrepaal90 
+Offsets:
+qnt: 1
+  107309,
+
+Chave: conf/coling/Eugenio90 
+Offsets:
+qnt: 1
+  172408,
+
+Chave: conf/coling/Eugenio96 
+Offsets:
+qnt: 1
+  28945,
+
+Chave: conf/coling/Goeser90 
+Offsets:
+qnt: 1
+  167293,
+
+Chave: conf/coling/Hepple90 
+Offsets:
+qnt: 1
+  170562,
+
+Chave: conf/coling/HobbsB90 
+Offsets:
+qnt: 1
+  165682,
+
+Chave: conf/coling/JohnsonK90 
+Offsets:
+qnt: 1
+  174208,
+
+Chave: conf/coling/Kitano90 
+Offsets:
+qnt: 1
+  166933,
+
+Chave: conf/coling/KlavansT90 
+Offsets:
+qnt: 1
+  147932,
+
+Chave: conf/coling/Kuhns86 
+Offsets:
+qnt: 1
+  98812,
+
+Chave: conf/coling/LavelliS90 
+Offsets:
+qnt: 1
+  140916,
+
+Chave: conf/coling/Lewin90 
+Offsets:
+qnt: 1
+  113677,
+
+Chave: conf/coling/Matthiessen90 
+Offsets:
+qnt: 1
+  171690,
+
+Chave: conf/coling/NakamuraMKS90 
+Offsets:
+qnt: 1
+  140072,
+
+Chave: conf/coling/NeumannF90 
+Offsets:
+qnt: 1
+  127042,
+
+Chave: conf/coling/Sabah90 
+Offsets:
+qnt: 1
+  127267,
+
+Chave: conf/coling/SchutzeR90 
+Offsets:
+qnt: 1
+  119871,
+
+Chave: conf/coling/ShieberS90 
+Offsets:
+qnt: 2
+  112721,  135066,
+
+Chave: conf/coling/Strzalkowski90 
+Offsets:
+qnt: 1
+  170265,
+
+Chave: conf/coling/Vijay-ShankerS92 
+Offsets:
+qnt: 1
+  27484,
+
+Chave: conf/coling/Wada90 
+Offsets:
+qnt: 1
+  137598,
+
+Chave: conf/coling/Wu90 
+Offsets:
+qnt: 1
+  168525,
+
+Chave: conf/colt/MaassT90 
+Offsets:
+qnt: 1
+  105590,
+
+Chave: conf/compgeom/AgarwalKO91 
+Offsets:
+qnt: 1
+  58730,
+
+Chave: conf/compsac/MoserMT02 
+Offsets:
+qnt: 1
+  4023,
+
+Chave: conf/concur/GuptaJS96 
+Offsets:
+qnt: 1
+  13986,
+
+Chave: conf/context/AgerriBLW07 
+Offsets:
+qnt: 1
+  69443,
+
+Chave: conf/crypto/ZhengMI90 
+Offsets:
+qnt: 2
+  49242,  15263,
+
+Chave: conf/cscw/FishKC90 
+Offsets:
+qnt: 1
+  144349,
+
+Chave: conf/cscw/HartE90 
+Offsets:
+qnt: 1
+  178525,
+
+Chave: conf/cvpr/SheikhS05 
+Offsets:
+qnt: 1
+  114478,
+
+Chave: conf/dac/KahngCR91 
+Offsets:
+qnt: 1
+  94353,
+
+Chave: conf/dagm/Dengler91 
+Offsets:
+qnt: 2
+  103777,  143595,
+
+Chave: conf/dagstuhl/KnappJHCGHBW07 
+Offsets:
+qnt: 1
+  40609,
+
+Chave: conf/dbpl/HiddersMPV05 
+Offsets:
+qnt: 1
+  104649,
+
+Chave: conf/dbpl/Moss89 
+Offsets:
+qnt: 1
+  54610,
+
+Chave: conf/dexaw/ZamanSG04 
+Offsets:
+qnt: 1
+  50672,
+
+Chave: conf/dood/FuH95 
+Offsets:
+qnt: 1
+  80776,
+
+Chave: conf/dsd/ChengHW08 
+Offsets:
+qnt: 1
+  156644,
+
+Chave: conf/eacl/Fernando99 
+Offsets:
+qnt: 1
+  114243,
+
+Chave: conf/ecai/Guez90 
+Offsets:
+qnt: 1
+  9833,
+
+Chave: conf/ecai/Sabah90 
+Offsets:
+qnt: 1
+  8126,
+
+Chave: conf/eccv/GrimsonH90 
+Offsets:
+qnt: 2
+  85859,  86008,
+
+Chave: conf/edbt/TOC90 
+Offsets:
+qnt: 2
+  128060,  128014,
+
+Chave: conf/edcc/SinghMM05 
+Offsets:
+qnt: 1
+  9174,
+
+Chave: conf/emnlp/PoonD08 
+Offsets:
+qnt: 1
+  150885,
+
+Chave: conf/esop/Bertot90 
+Offsets:
+qnt: 1
+  129388,
+
+Chave: conf/esop/Romanenko90 
+Offsets:
+qnt: 2
+  180457,  178816,
+
+Chave: conf/eurocrypt/PreneelLLGV90 
+Offsets:
+qnt: 1
+  138734,
+
+Chave: conf/ewdw/MatthesS90 
+Offsets:
+qnt: 1
+  17218,
+
+Chave: conf/fccm/PatelMSCPC06 
+Offsets:
+qnt: 1
+  96887,
+
+Chave: conf/focs/AndoniIP06 
+Offsets:
+qnt: 1
+  108651,
+
+Chave: conf/focs/HastadG90 
+Offsets:
+qnt: 1
+  112130,
+
+Chave: conf/focs/Istrail90 
+Offsets:
+qnt: 1
+  124742,
+
+Chave: conf/focs/Yao92 
+Offsets:
+qnt: 1
+  61296,
+
+Chave: conf/foiks/Hegner02 
+Offsets:
+qnt: 1
+  84689,
+
+Chave: conf/foiks/Hegner04 
+Offsets:
+qnt: 1
+  27136,
+
+Chave: conf/fsttcs/MitraS91 
+Offsets:
+qnt: 1
+  70929,
+
+Chave: conf/gecco/Koza08 
+Offsets:
+qnt: 1
+  28132,
+
+Chave: conf/graphicsinterface/IhmP98 
+Offsets:
+qnt: 1
+  55964,
+
+Chave: conf/hopl/GriswoldG93 
+Offsets:
+qnt: 1
+  11411,
+
+Chave: conf/iat/MitoF03 
+Offsets:
+qnt: 1
+  2640,
+
+Chave: conf/iat/WicklerPTPS07 
+Offsets:
+qnt: 1
+  140257,
+
+Chave: conf/icalp/PanR90 
+Offsets:
+qnt: 1
+  88379,
+
+Chave: conf/icassp/LaskowskiEH11 
+Offsets:
+qnt: 1
+  42968,
+
+Chave: conf/iccS/GroenHZ09 
+Offsets:
+qnt: 1
+  155197,
+
+Chave: conf/iccad/MalavasiCS90 
+Offsets:
+qnt: 1
+  125869,
+
+Chave: conf/iccl/BalKT90 
+Offsets:
+qnt: 1
+  159641,
+
+Chave: conf/iccl/JonesGBDM90 
+Offsets:
+qnt: 1
+  102685,
+
+Chave: conf/iccv/DuttaS90 
+Offsets:
+qnt: 2
+  176959,  177457,
+
+Chave: conf/iccv/GrimsonH90 
+Offsets:
+qnt: 2
+  97403,  97284,
+
+Chave: conf/iccv/KrummS90 
+Offsets:
+qnt: 2
+  140803,  100300,
+
+Chave: conf/icdcs/AlvisiRV98 
+Offsets:
+qnt: 1
+  154608,
+
+Chave: conf/icdcs/MoserMA91 
+Offsets:
+qnt: 1
+  101553,
+
+Chave: conf/icdcs/RenesseTSH87 
+Offsets:
+qnt: 2
+  24040,  40433,
+
+Chave: conf/icdcs/TanenbaumMR86 
+Offsets:
+qnt: 1
+  76011,
+
+Chave: conf/icde/DatTI05 
+Offsets:
+qnt: 1
+  20103,
+
+Chave: conf/icde/NutanongZTK09 
+Offsets:
+qnt: 1
+  66644,
+
+Chave: conf/icdt/FeketeLW92 
+Offsets:
+qnt: 2
+  94860,  98125,
+
+Chave: conf/iceis/CarreiraGPW07a 
+Offsets:
+qnt: 1
+  33394,
+
+Chave: conf/iceis/KaiyaSOK06 
+Offsets:
+qnt: 1
+  24584,
+
+Chave: conf/icip/ApostolopoulosWT02 
+Offsets:
+qnt: 1
+  52194,
+
+Chave: conf/icip/ZhouSCF09 
+Offsets:
+qnt: 1
+  33869,
+
+Chave: conf/iclp/HaridiJ90 
+Offsets:
+qnt: 1
+  180030,
+
+Chave: conf/icmi/WangTSW02 
+Offsets:
+qnt: 1
+  173976,
+
+Chave: conf/icml/KimMSBL06 
+Offsets:
+qnt: 1
+  134329,
+
+Chave: conf/icml/LebanonZ08 
+Offsets:
+qnt: 1
+  80148,
+
+Chave: conf/icnp/ChenMM96 
+Offsets:
+qnt: 1
+  18739,
+
+Chave: conf/icpp/AdveH90 
+Offsets:
+qnt: 1
+  49835,
+
+Chave: conf/icpp/DasMM92 
+Offsets:
+qnt: 1
+  25632,
+
+Chave: conf/ics/GallivanSZ90 
+Offsets:
+qnt: 1
+  105824,
+
+Chave: conf/icsnw/HaaseSH04 
+Offsets:
+qnt: 1
+  82956,
+
+Chave: conf/icsoc/Zhao07 
+Offsets:
+qnt: 1
+  73497,
+
+Chave: conf/ifip/Sommerville83 
+Offsets:
+qnt: 1
+  45371,
+
+Chave: conf/ijcai/Chan91 
+Offsets:
+qnt: 1
+  67272,
+
+Chave: conf/ijcai/DaiMW09 
+Offsets:
+qnt: 1
+  976,
+
+Chave: conf/ilp/DomingosKLPRS08 
+Offsets:
+qnt: 1
+  832,
+
+Chave: conf/infocom/Pang90 
+Offsets:
+qnt: 1
+  61194,
+
+Chave: conf/interact/Buxton90 
+Offsets:
+qnt: 1
+  134834,
+
+Chave: conf/interspeech/FlammiaGPPSZ94 
+Offsets:
+qnt: 1
+  53909,
+
+Chave: conf/interspeech/KajitaTI96 
+Offsets:
+qnt: 1
+  37639,
+
+Chave: conf/interspeech/KlavansT94 
+Offsets:
+qnt: 1
+  28640,
+
+Chave: conf/interspeech/SaruwatariKTI99 
+Offsets:
+qnt: 1
+  88769,
+
+Chave: conf/ipco/SchneiderHS90 
+Offsets:
+qnt: 1
+  68943,
+
+Chave: conf/ipmi/ChungRE05 
+Offsets:
+qnt: 1
+  117215,
+
+Chave: conf/isaac/DoerrF06 
+Offsets:
+qnt: 1
+  62618,
+
+Chave: conf/isca/AdveH98a 
+Offsets:
+qnt: 1
+  137816,
+
+Chave: conf/isca/AgarwalLKK90 
+Offsets:
+qnt: 1
+  155337,
+
+Chave: conf/isca/GharachorlooLLGGH90 
+Offsets:
+qnt: 1
+  151175,
+
+Chave: conf/isca/PapadopoulosC98 
+Offsets:
+qnt: 1
+  103091,
+
+Chave: conf/isca/SmithLH90 
+Offsets:
+qnt: 1
+  128502,
+
+Chave: conf/isorc/KalogerakiMM00 
+Offsets:
+qnt: 1
+  66811,
+
+Chave: conf/its/McLarenLK08 
+Offsets:
+qnt: 1
+  170869,
+
+Chave: conf/its/MiksatkoM08 
+Offsets:
+qnt: 1
+  97836,
+
+Chave: conf/kivs/BauseB93 
+Offsets:
+qnt: 1
+  75883,
+
+Chave: conf/lics/AllenCHA90 
+Offsets:
+qnt: 1
+  155646,
+
+Chave: conf/lics/GoldmanL90 
+Offsets:
+qnt: 2
+  179040,  152599,
+
+Chave: conf/mfps/BrookesG91 
+Offsets:
+qnt: 1
+  84902,
+
+Chave: conf/middleware/NarasimhanMM00 
+Offsets:
+qnt: 1
+  35979,
+
+Chave: conf/mva/BunkeGM90 
+Offsets:
+qnt: 1
+  79487,
+
+Chave: conf/mva/LiKI90 
+Offsets:
+qnt: 1
+  114794,
+
+Chave: conf/mva/Roth-TabakW90 
+Offsets:
+qnt: 1
+  144951,
+
+Chave: conf/mva/TakayaMSKM90 
+Offsets:
+qnt: 1
+  117354,
+
+Chave: conf/mva/ZhuL90 
+Offsets:
+qnt: 1
+  172515,
+
+Chave: conf/naacl/MohammadDEHMQRZ09 
+Offsets:
+qnt: 1
+  112359,
+
+Chave: conf/nips/AtlasCCEMMB89 
+Offsets:
+qnt: 1
+  47522,
+
+Chave: conf/nips/KimMB05 
+Offsets:
+qnt: 1
+  15395,
+
+Chave: conf/nips/LeungGPZ90 
+Offsets:
+qnt: 1
+  13042,
+
+Chave: conf/nips/WangB09 
+Offsets:
+qnt: 1
+  141940,
+
+Chave: conf/ntii/WickRMD08 
+Offsets:
+qnt: 1
+  113787,
+
+Chave: conf/oopsla/BalK93 
+Offsets:
+qnt: 1
+  6862,
+
+Chave: conf/oopsla/BrachaC90 
+Offsets:
+qnt: 1
+  147429,
+
+Chave: conf/para/GwaltneyS04 
+Offsets:
+qnt: 1
+  114920,
+
+Chave: conf/performance/MinkDRC87 
+Offsets:
+qnt: 1
+  64787,
+
+Chave: conf/pet/KohlweissFFGP07 
+Offsets:
+qnt: 1
+  94655,
+
+Chave: conf/pldi/CallahanCK90 
+Offsets:
+qnt: 1
+  179486,
+
+Chave: conf/pldi/Clinger90 
+Offsets:
+qnt: 1
+  175950,
+
+Chave: conf/pldi/Clinger90a 
+Offsets:
+qnt: 1
+  138157,
+
+Chave: conf/podc/Awerbuch90 
+Offsets:
+qnt: 3
+  29229,  45785,  134925,
+
+Chave: conf/podc/HerlihyT90 
+Offsets:
+qnt: 1
+  111053,
+
+Chave: conf/podc/JohnsonZ88 
+Offsets:
+qnt: 1
+  84357,
+
+Chave: conf/pods/FeketeLMW87 
+Offsets:
+qnt: 1
+  74074,
+
+Chave: conf/popl/SaraswatR90 
+Offsets:
+qnt: 1
+  79863,
+
+Chave: conf/pos/ClarkeWW87 
+Offsets:
+qnt: 1
+  72660,
+
+Chave: conf/ppopp/BennettCZ90 
+Offsets:
+qnt: 1
+  176797,
+
+Chave: conf/ppsn/JongS90 
+Offsets:
+qnt: 1
+  22686,
+
+Chave: conf/pstv/CleavelandPS89 
+Offsets:
+qnt: 1
+  144067,
+
+Chave: conf/rex/Lynch89 
+Offsets:
+qnt: 1
+  96806,
+
+Chave: conf/rtdb/HaritsaS01 
+Offsets:
+qnt: 1
+  50315,
+
+Chave: conf/rtss/AttiyaL89 
+Offsets:
+qnt: 1
+  65974,
+
+Chave: conf/rtss/MoserM94 
+Offsets:
+qnt: 1
+  7172,
+
+Chave: conf/sc/CytronLS90 
+Offsets:
+qnt: 1
+  132867,
+
+Chave: conf/sc/HsiungTCD90 
+Offsets:
+qnt: 2
+  157857,  83104,
+
+Chave: conf/scalespace/Lindeberg97 
+Offsets:
+qnt: 1
+  29908,
+
+Chave: conf/scn/CamenischHL06 
+Offsets:
+qnt: 1
+  160607,
+
+Chave: conf/sde/Snodgrass84 
+Offsets:
+qnt: 1
+  15023,
+
+Chave: conf/sdm/ZhangWWZ08 
+Offsets:
+qnt: 1
+  129119,
+
+Chave: conf/see/WiledenW89 
+Offsets:
+qnt: 1
+  115983,
+
+Chave: conf/seke/LiangT95 
+Offsets:
+qnt: 1
+  11636,
+
+Chave: conf/sigal/GazitM90 
+Offsets:
+qnt: 1
+  151644,
+
+Chave: conf/sigcomm/Deering88 
+Offsets:
+qnt: 1
+  100723,
+
+Chave: conf/sigcomm/RamakrishnanJ88 
+Offsets:
+qnt: 3
+  110064,  109725,  109545,
+
+Chave: conf/siggraph/FranklinK90 
+Offsets:
+qnt: 1
+  174738,
+
+Chave: conf/siggraph/WitkinW90 
+Offsets:
+qnt: 1
+  152112,
+
+Chave: conf/sigir/CreceliusKMNPSW08 
+Offsets:
+qnt: 1
+  96011,
+
+Chave: conf/sigmetrics/MeinersLT09 
+Offsets:
+qnt: 1
+  156793,
+
+Chave: conf/sigmod/BeckmannKSS90 
+Offsets:
+qnt: 1
+  162559,
+
+Chave: conf/sigmod/BhattacharyaMBNHS02 
+Offsets:
+qnt: 1
+  102857,
+
+Chave: conf/sigmod/SudarshanSRN91 
+Offsets:
+qnt: 1
+  90253,
+
+Chave: conf/sigopsE/LiskovGJS90 
+Offsets:
+qnt: 1
+  62076,
+
+Chave: conf/sigopsE/PikePTTW92 
+Offsets:
+qnt: 1
+  43451,
+
+Chave: conf/slp/JansonH91 
+Offsets:
+qnt: 1
+  32311,
+
+Chave: conf/snpd/SubramanianCS06 
+Offsets:
+qnt: 1
+  82112,
+
+Chave: conf/soda/Chan06 
+Offsets:
+qnt: 1
+  95904,
+
+Chave: conf/sosp/CarterBZ91 
+Offsets:
+qnt: 1
+  53782,
+
+Chave: conf/spdp/TyagiR90 
+Offsets:
+qnt: 1
+  150357,
+
+Chave: conf/srds/Melliar-SmithM04 
+Offsets:
+qnt: 1
+  14564,
+
+Chave: conf/stacs/BeigelGH90 
+Offsets:
+qnt: 1
+  75749,
+
+Chave: conf/stoc/Chan07 
+Offsets:
+qnt: 1
+  132738,
+
+Chave: conf/stoc/KampRVZ06 
+Offsets:
+qnt: 1
+  122769,
+
+Chave: conf/sutc/WoehrlePLBT08 
+Offsets:
+qnt: 1
+  29370,
+
+Chave: conf/swat/KreveldOA90 
+Offsets:
+qnt: 1
+  133102,
+
+Chave: conf/tacas/MoserM96 
+Offsets:
+qnt: 1
+  64079,
+
+Chave: conf/tke/SkuceM90 
+Offsets:
+qnt: 1
+  19664,
+
+Chave: conf/uai/GeigerH90 
+Offsets:
+qnt: 1
+  174640,
+
+Chave: conf/uai/HeckermanH90 
+Offsets:
+qnt: 1
+  142755,
+
+Chave: conf/uai/WellmanL94 
+Offsets:
+qnt: 1
+  1722,
+
+Chave: conf/usenix/Rosenthal90 
+Offsets:
+qnt: 1
+  161626,
+
+Chave: conf/visualization/AliagaFYC02 
+Offsets:
+qnt: 1
+  70582,
+
+Chave: conf/vldb/RamakrishnanSS90 
+Offsets:
+qnt: 1
+  164347,
+
+Chave: conf/vldb/WangM90 
+Offsets:
+qnt: 1
+  171402,
+
+Chave: conf/vlsid/PaikRS93 
+Offsets:
+qnt: 1
+  53017,
+
+Chave: conf/wads/Chan05 
+Offsets:
+qnt: 1
+  75487,
+
+Chave: conf/wdag/CidonGK90 
+Offsets:
+qnt: 2
+  154745,  36649,
+
+Chave: conf/wdag/CidonKMP90 
+Offsets:
+qnt: 1
+  151525,
+
+Chave: conf/wia/AlmeidaMR08 
+Offsets:
+qnt: 1
+  98503,
+
+Chave: conf/wmrd/LiskovGJS90 
+Offsets:
+qnt: 1
+  62206,
+
+Chave: conf/wmrd/LittleS90 
+Offsets:
+qnt: 1
+  178924,
+
+Chave: conf/words/ZhaoMM05 
+Offsets:
+qnt: 1
+  44958,
+
+Chave: journals/aai/MarchesiPO90 
+Offsets:
+qnt: 1
+  47227,
+
+Chave: journals/acj/SwatmanSE90 
+Offsets:
+qnt: 1
+  133783,
+
+Chave: journals/adcm/JohnK08 
+Offsets:
+qnt: 1
+  43776,
+
+Chave: journals/ai/Grimson90 
+Offsets:
+qnt: 2
+  44233,  44379,
+
+Chave: journals/ai/HobbsSAM93 
+Offsets:
+qnt: 1
+  98368,
+
+Chave: journals/ai/Wellman90 
+Offsets:
+qnt: 1
+  177572,
+
+Chave: journals/algorithmica/HirschbergL87 
+Offsets:
+qnt: 1
+  39362,
+
+Chave: journals/amai/Hegner04 
+Offsets:
+qnt: 1
+  68352,
+
+Chave: journals/arobots/BrooksS94 
+Offsets:
+qnt: 1
+  136693,
+
+Chave: journals/bc/YangS91 
+Offsets:
+qnt: 1
+  76172,
+
+Chave: journals/bit/KreveldOA92 
+Offsets:
+qnt: 1
+  116130,
+
+Chave: journals/cacm/KaplanKBLD90 
+Offsets:
+qnt: 1
+  72199,
+
+Chave: journals/cacm/Wolff05 
+Offsets:
+qnt: 1
+  46810,
+
+Chave: journals/cc/HastadG91 
+Offsets:
+qnt: 1
+  103928,
+
+Chave: journals/ccr/AndersenBKM03 
+Offsets:
+qnt: 1
+  71254,
+
+Chave: journals/cga/SlaterKMY09 
+Offsets:
+qnt: 1
+  22982,
+
+Chave: journals/cgf/IhmP99 
+Offsets:
+qnt: 1
+  77919,
+
+Chave: journals/ci/Schabes94 
+Offsets:
+qnt: 1
+  84792,
+
+Chave: journals/cj/KihlstromMM03 
+Offsets:
+qnt: 1
+  25342,
+
+Chave: journals/cj/Rijsbergen86 
+Offsets:
+qnt: 1
+  17366,
+
+Chave: journals/cogsci/Elman90 
+Offsets:
+qnt: 1
+  105509,
+
+Chave: journals/coling/BachenkoF90 
+Offsets:
+qnt: 1
+  104498,
+
+Chave: journals/coling/BrownCPPJLMR90 
+Offsets:
+qnt: 1
+  149228,
+
+Chave: journals/coling/Decary90 
+Offsets:
+qnt: 1
+  102156,
+
+Chave: journals/coling/LappinM90 
+Offsets:
+qnt: 2
+  80383,  149782,
+
+Chave: journals/coling/PalmerF90 
+Offsets:
+qnt: 1
+  115431,
+
+Chave: journals/coling/ShieberNPM90 
+Offsets:
+qnt: 1
+  163357,
+
+Chave: journals/comcom/TanenbaumKRB91 
+Offsets:
+qnt: 3
+  51349,  9935,  46630,
+
+Chave: journals/comgeo/HershbergerS94 
+Offsets:
+qnt: 1
+  111187,
+
+Chave: journals/computer/MinkCNR90 
+Offsets:
+qnt: 1
+  129501,
+
+Chave: journals/computer/Smith90 
+Offsets:
+qnt: 6
+  175870,  174982,  176050,  177687,  177767,  165602,
+
+Chave: journals/computer/TanenbaumKB92 
+Offsets:
+qnt: 1
+  72039,
+
+Chave: journals/concurrency/SaltzBW91 
+Offsets:
+qnt: 1
+  53505,
+
+Chave: journals/corr/abs-0803-1520 
+Offsets:
+qnt: 1
+  123162,
+
+Chave: journals/corr/abs-0907-4036 
+Offsets:
+qnt: 1
+  78761,
+
+Chave: journals/corr/abs-cs-0607062 
+Offsets:
+qnt: 1
+  173160,
+
+Chave: journals/corr/cmp-lg-9505028 
+Offsets:
+qnt: 1
+  49633,
+
+Chave: journals/corr/cmp-lg-9608008 
+Offsets:
+qnt: 1
+  28819,
+
+Chave: journals/corr/cs-NI-9809090 
+Offsets:
+qnt: 1
+  134483,
+
+Chave: journals/corr/cs-NI-9809095 
+Offsets:
+qnt: 3
+  52833,  51529,  51872,
+
+Chave: journals/cpc/DoerrF09 
+Offsets:
+qnt: 1
+  62493,
+
+Chave: journals/csur/ShethL90 
+Offsets:
+qnt: 1
+  159361,
+
+Chave: journals/cvgip/PrinceW91 
+Offsets:
+qnt: 1
+  18325,
+
+Chave: journals/dam/FernandesLW09 
+Offsets:
+qnt: 1
+  136982,
+
+Chave: journals/dc/MoserMA93 
+Offsets:
+qnt: 1
+  93608,
+
+Chave: journals/debu/Moss86 
+Offsets:
+qnt: 1
+  13890,
+
+Chave: journals/debu/SchenkelCKNPSW08 
+Offsets:
+qnt: 1
+  91589,
+
+Chave: journals/dm/Zeilberger84b 
+Offsets:
+qnt: 1
+  10955,
+
+Chave: journals/eatcs/ChangR90 
+Offsets:
+qnt: 1
+  134091,
+
+Chave: journals/eatcs/HartmanisCRR90 
+Offsets:
+qnt: 1
+  100413,
+
+Chave: journals/endm/Boughaci10 
+Offsets:
+qnt: 1
+  50934,
+
+Chave: journals/entcs/KaminskiS09 
+Offsets:
+qnt: 1
+  135526,
+
+Chave: journals/entcs/LincolnMS96 
+Offsets:
+qnt: 2
+  26815,  32166,
+
+Chave: journals/ets/KreijinsKJ02 
+Offsets:
+qnt: 1
+  85692,
+
+Chave: journals/heuristics/MitoF04 
+Offsets:
+qnt: 1
+  2351,
+
+Chave: journals/iacr/CamenischHL05 
+Offsets:
+qnt: 1
+  74529,
+
+Chave: journals/ieicet/AkitaK05 
+Offsets:
+qnt: 1
+  33535,
+
+Chave: journals/ijcga/Devillers93 
+Offsets:
+qnt: 1
+  139493,
+
+Chave: journals/ijcv/BarKS06 
+Offsets:
+qnt: 1
+  104794,
+
+Chave: journals/ijcv/Horn90a 
+Offsets:
+qnt: 2
+  79970,  80059,
+
+Chave: journals/ijfcs/PaikRS98 
+Offsets:
+qnt: 1
+  139902,
+
+Chave: journals/ijhci/Shneiderman90 
+Offsets:
+qnt: 1
+  179921,
+
+Chave: journals/ijtm/RoessnerPNJ02 
+Offsets:
+qnt: 1
+  39475,
+
+Chave: journals/ipm/BooksteinK90 
+Offsets:
+qnt: 2
+  32426,  24798,
+
+Chave: journals/ipm/BooksteinK92 
+Offsets:
+qnt: 2
+  47374,  44678,
+
+Chave: journals/is/KemperM92 
+Offsets:
+qnt: 1
+  55696,
+
+Chave: journals/jacm/AttiyaDLS94 
+Offsets:
+qnt: 1
+  136798,
+
+Chave: journals/jacm/AwerbuchCK08 
+Offsets:
+qnt: 1
+  93184,
+
+Chave: journals/jacm/HarrisonP90 
+Offsets:
+qnt: 1
+  110754,
+
+Chave: journals/jair/DaiMWG11 
+Offsets:
+qnt: 1
+  80493,
+
+Chave: journals/jal/AgarwalKO93 
+Offsets:
+qnt: 1
+  86157,
+
+Chave: journals/jasis/DeerwesterDLFH90 
+Offsets:
+qnt: 3
+  130524,  149044,  130341,
+
+Chave: journals/jcss/FeketeLMW90 
+Offsets:
 qnt: 4
-  188
-  352
-  484
-  0
+  96648,  93769,  114320,  80900,
+
+Chave: journals/jcss/GoldreichS99 
+Offsets:
+qnt: 1
+  57004,
+
+Chave: journals/jet/CrippsDP05 
+Offsets:
+qnt: 1
+  121619,
+
+Chave: journals/jirs/SzaboSMLB92 
+Offsets:
+qnt: 1
+  89451,
+
+Chave: journals/jise/WangH08 
+Offsets:
+qnt: 1
+  158014,
+
+Chave: journals/jpdc/AttiyaD01 
+Offsets:
+qnt: 1
+  23156,
+
+Chave: journals/jpdc/RankaS90a 
+Offsets:
+qnt: 1
+  160388,
+
+Chave: journals/jsac/DoucetteG00 
+Offsets:
+qnt: 1
+  22370,
+
+Chave: journals/jsyml/Lambalgen90 
+Offsets:
+qnt: 1
+  116764,
+
+Chave: journals/lisp/Appel90 
+Offsets:
+qnt: 1
+  165532,
+
+Chave: journals/lisp/ChambersU91 
+Offsets:
+qnt: 1
+  147753,
+
+Chave: journals/ml/GrefenstetteRS90 
+Offsets:
+qnt: 1
+  156972,
+
+Chave: journals/ml/Quinlan90 
+Offsets:
+qnt: 2
+  126791,  106072,
+
+Chave: journals/ml/Schapire90 
+Offsets:
+qnt: 1
+  179305,
+
+Chave: journals/mp/GoldfarbH90 
+Offsets:
+qnt: 1
+  143747,
+
+Chave: journals/mss/AnderliniS01 
+Offsets:
+qnt: 1
+  12922,
+
+Chave: journals/mst/Gallier80 
+Offsets:
+qnt: 1
+  12832,
+
+Chave: journals/ndjfl/PelletierM90 
+Offsets:
+qnt: 1
+  123037,
+
+Chave: journals/pami/GrimsonH91 
+Offsets:
+qnt: 2
+  34477,  34321,
+
+Chave: journals/pami/GrimsonH91a 
+Offsets:
+qnt: 2
+  74374,  74219,
+
+Chave: journals/pami/KulisJG09 
+Offsets:
+qnt: 1
+  2226,
+
+Chave: journals/pami/RankaS90 
+Offsets:
+qnt: 1
+  116483,
+
+Chave: journals/pami/SheikhS05 
+Offsets:
+qnt: 1
+  164760,
+
+Chave: journals/pvldb/CreceliusKMNPSW08 
+Offsets:
+qnt: 1
+  171062,
+
+Chave: journals/qic/KaplanLKR11 
+Offsets:
+qnt: 1
+  57574,
+
+Chave: journals/questa/BonaldT08 
+Offsets:
+qnt: 1
+  175637,
+
+Chave: journals/rc/XiangCK07 
+Offsets:
+qnt: 1
+  148402,
+
+Chave: journals/sLogica/BlackburnR97 
+Offsets:
+qnt: 1
+  99303,
+
+Chave: journals/scp/ChungS07 
+Offsets:
+qnt: 1
+  4934,
+
+Chave: journals/siamcomp/BeameBRRT99 
+Offsets:
+qnt: 1
+  109153,
+
+Chave: journals/siamcomp/GoldmanKS93 
+Offsets:
+qnt: 1
+  119039,
+
+Chave: journals/siamcomp/GrigorievKS90 
+Offsets:
+qnt: 1
+  157664,
+
+Chave: journals/siamcomp/Maass97 
+Offsets:
+qnt: 1
+  5216,
+
+Chave: journals/siamdm/BodlaenderM93 
+Offsets:
+qnt: 1
+  104018,
+
+Chave: journals/siamdm/Bruck90 
+Offsets:
+qnt: 1
+  165303,
+
+Chave: journals/siamsc/OlshanskiiB08 
+Offsets:
+qnt: 1
+  153734,
+
+Chave: journals/sigmod/HiddersMPV05 
+Offsets:
+qnt: 1
+  21228,
+
+Chave: journals/sigmod/Snodgrass90 
+Offsets:
+qnt: 1
+  148741,
+
+Chave: journals/sigops/LadinLS91 
+Offsets:
+qnt: 2
+  112970,  113140,
+
+Chave: journals/sigops/StephensonB91 
+Offsets:
+qnt: 1
+  95277,
+
+Chave: journals/sigops/TanenbaumM81 
+Offsets:
+qnt: 1
+  59218,
+
+Chave: journals/software/Hall90 
+Offsets:
+qnt: 1
+  119230,
+
+Chave: journals/spe/KaashoekBT92 
+Offsets:
+qnt: 1
+  60315,
+
+Chave: journals/spe/MoserM90 
+Offsets:
+qnt: 1
+  76316,
+
+Chave: journals/speech/ZueSPPPGGG94 
+Offsets:
+qnt: 1
+  32752,
+
+Chave: journals/tc/ChaudhuriHHSRH03 
+Offsets:
+qnt: 1
+  117800,
+
+Chave: journals/tc/GoswamiIY97 
+Offsets:
+qnt: 1
+  56440,
+
+Chave: journals/tcad/ChoudhuryS93a 
+Offsets:
+qnt: 1
+  30412,
+
+Chave: journals/tcad/SalehW90 
+Offsets:
+qnt: 1
+  142064,
+
+Chave: journals/tcad/SilveiraWNV92 
+Offsets:
+qnt: 1
+  92261,
+
+Chave: journals/tcs/FortnowL93 
+Offsets:
+qnt: 1
+  26555,
+
+Chave: journals/tcs/Schwartzbach96 
+Offsets:
+qnt: 1
+  107870,
+
+Chave: journals/tcsv/RasheedSS05 
+Offsets:
+qnt: 1
+  16157,
+
+Chave: journals/tit/CidonGK95 
+Offsets:
+qnt: 1
+  128646,
+
+Chave: journals/tjs/ShenO90 
+Offsets:
+qnt: 1
+  125259,
+
+Chave: journals/tkde/DasguptaNMM99 
+Offsets:
+qnt: 1
+  6998,
+
+Chave: journals/tkde/RamakrishnanSS94 
+Offsets:
+qnt: 1
+  146303,
+
+Chave: journals/tocs/DeeringC90 
+Offsets:
+qnt: 1
+  164619,
+
+Chave: journals/tocs/KaashoekRST93 
+Offsets:
+qnt: 2
+  23851,  40244,
+
+Chave: journals/tods/AgrawalCL87 
+Offsets:
+qnt: 1
+  5854,
+
+Chave: journals/tois/HartE91 
+Offsets:
+qnt: 1
+  90923,
+
+Chave: journals/tois/Jacob91 
+Offsets:
+qnt: 1
+  94501,
+
+Chave: journals/ton/GibbensKT93 
+Offsets:
+qnt: 1
+  6723,
+
+Chave: journals/ton/MeinersLT12 
+Offsets:
+qnt: 1
+  34006,
+
+Chave: journals/ton/RamaiyanKA08 
+Offsets:
+qnt: 1
+  140450,
+
+Chave: journals/toplas/KorachKM90 
+Offsets:
+qnt: 2
+  116958,  116593,
+
+Chave: journals/tpds/GuoM94 
+Offsets:
+qnt: 1
+  77062,
+
+Chave: journals/tpds/LiuTM11 
+Offsets:
+qnt: 1
+  29682,
+
+Chave: journals/tpds/RankaS91 
+Offsets:
+qnt: 1
+  79758,
+
+Chave: journals/tse/BrocklehurstCLS90 
+Offsets:
+qnt: 1
+  152718,
+
+Chave: journals/tse/GuptaS90 
+Offsets:
+qnt: 1
+  161837,
+
+Chave: journals/tse/PodgurskiC90 
+Offsets:
+qnt: 1
+  162125,
+
+Chave: journals/tsp/OtterstenVK92 
+Offsets:
+qnt: 1
+  71013,
+
+Chave: journals/tsp/SherlockM98 
+Offsets:
+qnt: 1
+  1230,
+
+Chave: journals/vldb/HaritsaCL93 
+Offsets:
+qnt: 1
+  77337,
 
