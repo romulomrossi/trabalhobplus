@@ -11,7 +11,13 @@ Node<D>::~Node(){};
 
 template<typename D>
 Node<D> * Node<D>::split (Node<D> * esq){
-	return esq;
+	Node<D> * dir = new Node<D>(this->ordem);
+	int tam = (this->ordem-1) / 2;
+	while(esq->valores.size() < tam ){
+		dir->valores.push_back(esq->valores[tam]);
+	  esq->valores.erase(esq->valores.begin()+tam);
+	}
+	return dir;
 }
 
 template<typename D>
@@ -26,7 +32,7 @@ void Node<D>::inserePai(Node<D> *esq, Node<D> *dir){
 			dir->pai = esq->pai;
 		}
 		esq->pai->valores.push_back(dir->chaves[0].getChave());
-		if(pai->valores.size() <= (ordem+1)/2)
+		if(pai->valores.size() <= (ordem-1)/2)
 			inserePai(esq->pai, split(esq->pai));
 
 }
