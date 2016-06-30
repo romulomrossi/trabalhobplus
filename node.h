@@ -11,7 +11,7 @@ class Node {
 		vector<D> valores;
 		vector<Node<D>* > filhos;
 		bool folha;
-		Node<D> * split();
+		Node<D> * split(Node<D> * esq);
 		void inserePai( Node<D> *esq, Node<D> *dir);
 
 	public:
