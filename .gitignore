@@ -1,5 +1,4 @@
 \a.out
-\.*.o
-\.*.bin
-\.*.exe
-\.*.exe.stackdump
+*.o
+*.bin
+*.exe*
