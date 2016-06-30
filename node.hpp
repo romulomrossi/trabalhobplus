@@ -10,6 +10,11 @@ template<typename D>
 Node<D>::~Node(){};
 
 template<typename D>
+Node<D> * Node<D>::split (Node<D> * esq){
+	return esq;
+}
+
+template<typename D>
 void Node<D>::inserePai(Node<D> *esq, Node<D> *dir){
 		if(esq->pai==(Node<D>*)NULL){
 			cout<<"chegou aqui"<<endl;
@@ -21,6 +26,7 @@ void Node<D>::inserePai(Node<D> *esq, Node<D> *dir){
 			dir->pai = esq->pai;
 		}
 		esq->pai->valores.push_back(dir->chaves[0].getChave());
-		//if(pai->valores.size() <= (ordem+1)/2)
+		if(pai->valores.size() <= (ordem+1)/2)
+			inserePai(esq->pai, split(esq->pai));
 
 }
