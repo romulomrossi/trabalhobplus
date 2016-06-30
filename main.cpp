@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <algorithm>
 
-#include "nodeF.h"
+#include "node.h"
 
 //#include<quicksort>
 
@@ -24,7 +24,7 @@ dados.pop_back();
 
 		// cout<<endl<<"/\\antes depois\\/ "<<endl;
 		//NodeF<string> a = NodeF<string>( 3 );
-	NodeF<string> :: bulkLoading (dados, 4 );
+	Node<string> :: bulkLoading (dados, 4 );
 		 //for( vector<Dados<string> >::iterator it=dados.begin(); it!=dados.end(); ++it )
 		 	//cout<<*it<<endl;
 
