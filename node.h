@@ -48,6 +48,7 @@ class Node {
 		}
 
 		novo->prox = (Node<string>*)NULL;
+		aux->prox =  (Node<string>*)NULL;
 		novo = first;
 		while(novo->prox != (Node<string>*)NULL ){
 			for(int i = 0; i<novo->chaves.size() && novo->folha; i++){
