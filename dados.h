@@ -22,11 +22,11 @@ class Dados{
 		bool operator!=(Dados<T> b);
 		friend std::ostream& operator<< (std::ostream& os,const Dados<T>& dados){//deve ser definida aqui dentro
 			T chave = dados.chave;												 //ou definido o template assim operator<< <T>
-			os<<chave<<"\n Offsets:\n";											 //e declarando duas vezes template da
+			os<<"Chave: "<<chave<<" \nOffsets:\n";											 //e declarando duas vezes template da
 			os<<"qnt: "<<dados.valores.size()<<"\n";
 			for(unsigned int i=0;i<dados.valores.size();i++)
-				os<<"  "<<dados.valores[i]<<'\n';
-
+				os<<"  "<<dados.valores[i]<<',';
+			os<<'\n';
 			return os;	// fonte: http://stackoverflow.com/questions/37809053/overloading-operator-in-a-template-class/37809247
 		}
 };

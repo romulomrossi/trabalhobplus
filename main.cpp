@@ -24,7 +24,7 @@ dados.pop_back();
 
 		// cout<<endl<<"/\\antes depois\\/ "<<endl;
 		//NodeF<string> a = NodeF<string>( 3 );
-	Node<string> :: bulkLoading (dados, 4 );
+	Node<string> :: bulkLoading (dados, 10 );
 		 //for( vector<Dados<string> >::iterator it=dados.begin(); it!=dados.end(); ++it )
 		 	//cout<<*it<<endl;
 
