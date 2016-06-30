@@ -9,7 +9,7 @@ class Node {
 		Node<D> *pai;
 		vector<Dados<D> > chaves;
 		vector<D> valores;
-		vector<Node<D> > *filhos;
+		vector<Node<D>* > filhos;
 		bool folha;
 		void split();
 		void inserePai(D chave, Node<D> *esq, Node<D> *dir);

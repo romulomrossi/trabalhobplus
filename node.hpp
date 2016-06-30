@@ -10,8 +10,8 @@ template<typename D>
 Node<D>::~Node(){};
 
 template<typename D>
-Node<D>::void inserePai(D chave, Node<D> *esq, Node<D> *dir){
-		if(esq->pai==NULL){
+void Node<D>::inserePai(D chave, Node<D> *esq, Node<D> *dir){
+		if(esq->pai==(Node<D>*)NULL){
 			dir->pai = esq->pai = new Node<D>(this->ordem);
 			esq->pai->filhos.push_back(esq);
 			esq->pai->filhos.push_back(dir);
