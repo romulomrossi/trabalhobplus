@@ -10,7 +10,7 @@ template<typename D>
 Node<D>::~Node(){};
 
 template<typename D>
-void Node<D>::inserePai(D chave, Node<D> *esq, Node<D> *dir){
+void Node<D>::inserePai(Node<D> *esq, Node<D> *dir){
 		if(esq->pai==(Node<D>*)NULL){
 			cout<<"chegou aqui"<<endl;
 			dir->pai = esq->pai = new Node<D>(this->ordem);
@@ -20,5 +20,7 @@ void Node<D>::inserePai(D chave, Node<D> *esq, Node<D> *dir){
 			esq->pai->filhos.push_back(dir);
 			dir->pai = esq->pai;
 		}
-		esq->pai->valores.push_back(chave);
+		esq->pai->valores.push_back(dir->chaves[0].getChave());
+		//if(pai->valores.size() <= (ordem+1)/2)
+
 }
